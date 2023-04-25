@@ -1,5 +1,12 @@
 # 💫 About Me:
-I enjoy coding and expanding my knowledge<br>on anything of the sort. I'm currently working<br>on various projects such as a wordle solver<br>and expanding my knowledge with web development<br>by using Django using front and back end. My<br>email is beavers.ryan@usd109.org
+I enjoy coding and expanding my knowledge on anything of the sort.
+
+I’m a self taught developer, I specialize mainly in python and Django web development.
+
+Currently working on various projects such as a Wordle solver and expanding my knowledge with Django web development using front and back end.
+Pen testing is another area of interest of mine.
+
+My email is beavers.ryan@usd109.org
 
 
 ## 🌐 Socials:
